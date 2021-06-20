@@ -11,6 +11,7 @@ body {
   background: #ffffff;
   padding-top: 20px;
   padding-bottom: 20px;
+  padding: 1em;
 }
 
 header {
@@ -88,10 +89,11 @@ iframe {
 table {
   display: table;
   box-sizing: border-box;
-  text-indent: initial;
   border-spacing: 2px;
-  max-width: 80%;
-  vertical-align: middle;
+  max-width: 20%;
+  font-size: 100%;
+  margin-left: 100px;
+  line-height: 1rem;
 }
 
 .stats-tables {
