@@ -60,7 +60,8 @@ h2 {
   padding: 2%;
 }
 
-h3 {
+h3,
+h4 {
   text-align: left;
   font-weight: normal;
   margin-left: 3%;
